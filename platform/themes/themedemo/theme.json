@@ -1,0 +1,8 @@
+{
+    "name": "ThemeDemo",
+    "namespace": "Theme\\Themedemo\\",
+    "description": "test",
+    "author": "Thoi Van Nguyen",
+    "version": "1.0",
+    "required_plugins": []
+}
